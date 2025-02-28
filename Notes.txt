@@ -1,0 +1,13 @@
+# To create a folder -  npm create vite@latest
+----------------------------------
+
+#Then install dependencies in the terminal -
+npm install
+npm run dev  - Now project is running in this local server link
+------------------------
+
+#To get a font style
+type outfit font in google - then click - go to get font - click embedded code - click import - paste that link in the top of the css file
+like paste this "@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,600;1,600&family=Outfit:wght@100..900&display=swap');
+" in the top of the css file after that we can mention  "font-family: Outfit;" like this.
+----------------------------------------------

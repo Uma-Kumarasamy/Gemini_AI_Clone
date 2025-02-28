@@ -1,8 +1,21 @@
-# React + Vite
+Gemini AI Clone 🔥 | React + Vite + Google Generative AI
+A lightweight AI chatbot built using React, Vite, and Google's Generative AI (Gemini API). This project allows users to input prompts and receive AI-generated responses in real-time.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✅ AI-Powered Responses – Uses Google Gemini AI to generate intelligent responses.
+✅ Fast Performance – Built with React 19 and Vite for optimized speed.
+✅ Secure API Handling – API key stored securely using .env.
+✅ ESLint Support – Ensures clean and consistent code.
+✅ Easy Setup – Minimal dependencies and quick installation.
 
-Currently, two official plugins are available:
+🛠️ Tech Stack
+Frontend: React 19, Vite
+AI API: Google Generative AI (@google/generative-ai)
+Styling: CSS
+Linting: ESLint
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎯 How It Works
+1️⃣ Enter a question or prompt in the input field.
+2️⃣ Click "Generate" to get an AI response.
+3️⃣ The chatbot fetches a response from Google's Gemini API.
+4️⃣ The AI-generated text appears below the input field.
